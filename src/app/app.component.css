@@ -1,0 +1,121 @@
+
+.pddRL{
+padding-right: 2px;
+padding-bottom: 1px;
+}
+.bg{
+  background-color: none;
+}
+  .color1{
+	background:#41CA6E;
+
+  }
+  .color2{
+	background:#FAB153;
+  }
+  .color3{
+	background:#7277D5;
+  }
+  .color4{
+	background:#F87D51;
+  }
+  .color5{
+	background:#ED5466;
+  } 
+  .color6{
+	background:#4EC2E7;
+  }
+  .accImg{
+    height: 20px !important;
+   
+}
+.img1{
+	width: 45%;
+	padding-right: 3%;
+    margin-top:20%;
+}
+  
+.img2{
+    width: 60%;
+    padding-left:13%;
+    margin-top: 12%;
+    height: 82%;
+
+}
+.img3{
+  padding-left: 38px;
+}
+.img4{
+  width: 30%;
+  padding-left:15%;
+
+}
+.img6{
+width: 38%;
+    padding-left: 6%;
+    height: 84%;
+}
+.accImg1{
+	height: 20px !important;
+	margin-bottom: 85%;
+	padding-right: 14%;
+}
+
+.font{
+  font-family: Open Sans,sans-serif!important;
+ color: white;
+ /* border-bottom: solid; */
+ text-align: justify;
+ margin-top: 33%;
+}
+.fontfamily{
+  font-family: Open Sans,sans-serif!important;
+}
+.accImg{
+  height: 40px !important;
+}
+.mat-grid-tile .mat-grid-tile-header{
+  display: flex;
+    align-items: center;
+    height: 48px;
+    color: #fff;
+    background: #41CA6E !important;
+    overflow: hidden;
+    padding: 0 16px;
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+
+.col{
+margin-top: 21px;
+}.example-card {
+  max-width: 450px;
+}
+.imgaecss{
+  width: 40%  !important;
+  left: 35%  !important;
+  bottom: 20% !important;
+}
+.padd-60{
+  padding: 20px 60px 0 60px;
+}
+.w-10{
+  width: 10% !important;
+}
+@media only screen and (max-width: 475px) {
+.carsoul{
+  display: block;
+}
+.gird{
+  display: none;
+}
+}
+@media only screen and (min-width: 476px) {
+  .carsoul{
+    display: none;
+  }
+  .gird{
+    display: block;
+  }
+  }
